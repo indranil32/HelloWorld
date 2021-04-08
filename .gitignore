@@ -1,1 +1,15 @@
-/bin/
+*/bin/
+*/build/
+*/target/
+*/dist/
+*/node_modules/
+
+*.iml
+*.eml
+
+.idea
+.settings
+.classpath
+.project
+
+*.class
