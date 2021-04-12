@@ -13,3 +13,5 @@
 .project
 
 *.class
+*.exe
+*.obj
