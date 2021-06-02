@@ -17,7 +17,7 @@ Add a console program which prints "Hello World" output on console
 Add a README with instructions on how to run the program with pre-requisties (if any)
 
 - <h3>Step 4:</h3>
-Click on the create a pull request option
+Create a pull request
 
   
 # Our Goal
