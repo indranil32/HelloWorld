@@ -1,5 +1,5 @@
 <h1 align="center">Hello World</h1>
-<p>
+<p align="center">
   <a href="https://github.com/indranil32/HelloWorld"><img src="https://img.shields.io/badge/opensource-is%20%E2%9D%A4%EF%B8%8F%EF%B8%8F%20-green"></a>
 </p>  
 
