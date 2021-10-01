@@ -1,0 +1,23 @@
+*{
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    background: url('https://cdn.wallpapersafari.com/7/49/0oVBnO.jpg');
+    background-repeat: no-repeat;
+
+}
+h1{
+    position: fixed;
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    top: 40vh;
+    list-style: none;
+    color: aliceblue;
+}
+
+h1:hover {
+    color: indigo;
+    border: 3px solid white;
+   border-radius: 20%;
+  }
