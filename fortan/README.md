@@ -5,4 +5,4 @@
 # RUN
 
 - Compile - `gfortan -o helloworld helloworld.f95`
-- Run - helloworld.exe
+- Run - `helloworld.exe`
