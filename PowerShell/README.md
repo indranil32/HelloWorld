@@ -1,11 +1,12 @@
 # PREREQUISITE 
   ============
-1. Windows 7 or Later
+
+Windows 7 or Later
 
 # RUN
   ===
 
-`PowerShell -NoExit "HelloWorld.ps1"`
+PowerShell -NoExit "HelloWorld.ps1"
 
 Note: `-NoExit` is not needed to run the file, but without it, the PowerShell window would close too quickly to read the "Hello World!"
 
