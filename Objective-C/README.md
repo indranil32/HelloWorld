@@ -4,4 +4,5 @@
 
 # RUN
   ===
-1. Run - gcc HelloWorld.m
+
+gcc HelloWorld.m
