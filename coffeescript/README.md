@@ -7,4 +7,4 @@
   ===
 
 1. Create a file called helloworld.coffee and paste the code
-2. Oppen command prompt and execute this code by using `coffee helloword.coffee`
+2. Open command prompt and execute this code by using `coffee helloword.coffee`
