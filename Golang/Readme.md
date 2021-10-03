@@ -11,6 +11,7 @@ $ go run HelloWorld.go
 hello world
 
 $ go build HelloWorld.go
+
 $ ls
 HelloWorld HelloWorld.go
 
