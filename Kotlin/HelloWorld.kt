@@ -1,5 +1,5 @@
 // Kotlin Hello World Program
-
-fun main(args: Array<String>) {
+// no need of args: Array<String> it will make code complex.
+fun main() {
     println("Hello World!")
 }
