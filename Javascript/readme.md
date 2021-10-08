@@ -1,0 +1,1 @@
+Just run the file normally and the output will be displayed in the terminal window of the IDE for eg., vs code.
