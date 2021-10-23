@@ -1,10 +1,5 @@
-# Hello World Program in Dart
-
-Dart is a client-optimized language for developing fast apps on any platform.
-It forms the foundation of Flutter and also supports many core developer tasks like formatting, analyzing, and testing code.
-
-
-** How to install Dart SDK ?? **
+# PREREQUISITE 
+  ============
 
 If you have Flutter installed, you might not need to explicitly download the Dart SDK. Consider downloading the Dart SDK if any of the following are true:
 
@@ -15,7 +10,9 @@ If you have Flutter installed, you might not need to explicitly download the Dar
 Get the Dart SDK **[here](https://dart.dev/get-dart)**
 
 
-** How to compile Dart Code ?? **
+
+# RUN
+  ===
 
 There are two ways you can compile a code written in Dart:-
 
