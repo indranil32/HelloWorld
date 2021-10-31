@@ -1,2 +1,2 @@
-# Get Wolfram Mathematica
+### Get Wolfram Mathematica
 https://www.wolfram.com/mathematica/
