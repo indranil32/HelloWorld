@@ -1,0 +1,9 @@
+# Hello World as a 3D object in Blender
+
+import Blender
+from Blender import Scene, Text3d
+
+txt = Text3d.New("Text")
+txt.setText('Hello, World!')
+Scene.GetCurrent().objects.new(txt)
+Blender.Redraw()
